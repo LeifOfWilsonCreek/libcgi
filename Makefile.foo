@@ -1,0 +1,3 @@
+LIB=cgi
+SRCS=cgi.c
+.include <bsd.lib.mk>
